@@ -23,3 +23,7 @@ V)exit:It will take you out of **main menu** with thank you message.<br>
 Above all are the features for this exercise.In future it can be made more usable by adding some new technology in it.
 ## Output :<br>
 ![Screenshot (48)](https://user-images.githubusercontent.com/114091861/191814965-511877b6-34f7-4d7b-b605-f556c5a3f0a6.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/114091861/191815247-d0e87a1a-199b-4fa8-8d92-921d0729c8ec.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/114091861/191815276-1e86288e-32e2-4ef4-b7b6-0a63024b4779.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/114091861/191815301-c35914e3-abdc-4005-b22e-d9b55974f6d4.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/114091861/191815332-ac5b453b-9458-4819-919f-e9164cd0c162.png)
