@@ -6,7 +6,7 @@ public class careRunner {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		System.out.println(
-				"HEY! we Welcome you on our elderly care prtotype.To start with it please enter the following details");
+				"HEY! we Welcome you on our elderly care prototype.To start with it please enter the following details");
 		System.out.println("Enter your name:");
 		String a = scan.nextLine();
 		System.out.println("Enter your age:");

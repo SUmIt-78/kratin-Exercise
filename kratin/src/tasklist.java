@@ -1,9 +1,9 @@
 import java.time.LocalTime;
 
 public class tasklist {
-	String taskName;
-	String status = "NotCompleted";
-	LocalTime time;
+	private String taskName;
+	private String status = "NotCompleted";
+	private LocalTime time;
 
 	void setTime(int hour, int min) {
 		this.time = LocalTime.of(hour, min);
