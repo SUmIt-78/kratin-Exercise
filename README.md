@@ -1,9 +1,9 @@
 # kratin-Exercise
 # DESCRIPTION
 ## Topics used for this exercise :<br>
-**1)Basic JAVA<br>
-2)OOP concepts<br>
-3)Collections in JAVA<br>**
+- Basic JAVA<br>
+- OOP concepts<br>
+- Collections in JAVA<br>
 ## Brief :<br>
 this exercise is prototype of elderly care. It will take your name,age and height to get register.Once you get register you will get acess of **main menu**.Now you can use all the features under menu section.The features are.<br>
 I)Weight: It will take the weight as input from user and will decide in which category your weight lies.<br>
